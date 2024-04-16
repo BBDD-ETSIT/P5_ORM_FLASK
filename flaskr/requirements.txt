@@ -9,3 +9,4 @@ flask-sqlalchemy==3.0.2
 psycopg2-binary
 Flask-Seeder
 sqlalchemy_utils
+Werkzeug==2.2.2

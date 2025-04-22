@@ -1,5 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for
-from werkzeug.urls import url_parse
+from flask import Flask, render_template, request, redirect
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy_utils import create_database, database_exists
 import uuid

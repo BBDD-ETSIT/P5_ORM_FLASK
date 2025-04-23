@@ -106,6 +106,7 @@ $ flask run
 
 Abra un navegador y vaya a la url "http://localhost:5000" para ver la aplicación de gestión de pacientes.
 
+En el siguiente video puede observar cual sería el funcionamiento normal de la aplicación [link](https://youtu.be/8xXaFCRxMXE)
 
 ## 5. Consejos para antes de empezar
 
